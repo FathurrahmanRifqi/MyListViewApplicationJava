@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyListViewApplication</string>
+    <string name="name_makanan">Nama Makanan</string>
+    <string name="latihan">latihan</string>
+
+    <string-array name="data_makanan">
+        <item>Nasi Goreng</item>
+        <item>Sate Ayam</item>
+        <item>Soto Ayam</item>
+        <item>Sate Kambing</item>
+        <item>Mie Ayam</item>
+        <item>Bakso</item>
+    </string-array>
+
+    <string-array name="data_deskripsi_makanan">
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega.</item>
+        <item>Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap.</item>
+        <item>Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. </item>
+        <item>Sate kambing adalah sejenis makanan sate terbuat dari daging kambing. Daging kambing tersebut disate (ditusuk dengan bambu yang dibentuk seperti lidi yang agak besar) dan dibumbui dengan rempah-rempah dan bumbu dapur, kemudian dibakar</item>
+        <item>Mi ayam, mie ayam atau bakmi ayam adalah hidangan Indonesia yang terbuat dari mie gandum kuning yang dibumbui dengan daging ayam yang biasanya dipotong dadu. </item>
+        <item>Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/sateayam</item>
+        <item>@drawable/sotoayam</item>
+        <item>@drawable/satekambing</item>
+        <item>@drawable/mieayam</item>
+        <item>@drawable/bakso</item>
+    </array>
+</resources>
